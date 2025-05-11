@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WGXQqaJ2HmTxd7eOy/7LQNv0jc5KWYfrQYRxVcKjRYk=",
+  "Source": "Api.Render",
+  "BasePath": "_content/Api.Render",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
